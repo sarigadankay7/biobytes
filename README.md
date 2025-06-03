@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Learning Bioinformatics, ML & AI Exploring the intersection of biology and computation**
 
 - 💬 Ask me about **- 🧬 Bioinformatics workflows and tools - 🤖 Applying ML/AI in biological data analysis - 🧪 Molecular docking and protein-ligand interaction - 🧠 Python for biotech and computational biology - 📊 Data visualization for genomics - 🧰 Tools like PyRx - 🛠️ Learning paths for biotech students entering ML/AI**
+- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 📫 How to reach me **sarigadankay7@gmail.com**
 
